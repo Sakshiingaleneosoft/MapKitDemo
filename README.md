@@ -1,6 +1,3 @@
-Here’s a clean, concise README note you can directly paste into your README.md.
-It’s brief, structured, and clearly lists topics + features used in the project.
-
 📱 SwiftUI Demo Project – MapKit, Media & Web Links
 
 This project is a single SwiftUI application that demonstrates core iOS features using MapKit, Media APIs, and Web technologies, all organized into separate modules and accessible from a common launch screen.
@@ -76,7 +73,7 @@ WebKit framework integration
 
 UIKit–SwiftUI bridging using UIViewControllerRepresentable
 
-🚀 App Structure
+* App Structure
 
 Single SwiftUI project
 
